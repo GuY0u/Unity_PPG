@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 50c561459ed778a4ba81abad6e604ec0
+timeCreated: 1429009759
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Mahia_body
+    100006: Mahia_Bra
+    100008: mahia_cap
+    100010: Mahia_Cloth
+    100012: mahia_crown
+    100014: mahia_eye_l
+    100016: mahia_eye_r
+    100018: mahia_lance
+    100020: Mahia_LOD_Scan001
+    100022: Object001
+    100024: Object002
+    100026: Object004
+    100028: Plane002
+    100030: RIGMahia
+    100032: RIGMahiaFootFinger
+    100034: RIGMahiaFootFinger 1
+    100036: RIGMahiaHead
+    100038: RIGMahiaHub002
+    100040: RIGMahiaIndex1
+    100042: RIGMahiaIndex1 1
+    100044: RIGMahiaIndex2
+    100046: RIGMahiaIndex2 1
+    100048: RIGMahiaIndex3
+    100050: RIGMahiaIndex3 1
+    100052: RIGMahiaLArm1
+    100054: RIGMahiaLArm2
+    100056: RIGMahiaLArmCollarbone
+    100058: RIGMahiaLArmIKTarget
+    100060: RIGMahiaLArmPalm
+    100062: RIGMahiaLEar1
+    100064: RIGMahiaLEar2
+    100066: RIGMahiaLEar3
+    100068: RIGMahiaLEar4
+    100070: RIGMahiaLEar5
+    100072: RIGMahiaLittlefinger1
+    100074: RIGMahiaLittlefinger1 1
+    100076: RIGMahiaLittlefinger2
+    100078: RIGMahiaLittlefinger2 1
+    100080: RIGMahiaLittlefinger3
+    100082: RIGMahiaLittlefinger3 1
+    100084: RIGMahiaLLeg1
+    100086: RIGMahiaLLeg2
+    100088: RIGMahiaLLegAnkle
+    100090: RIGMahiaLLegPlatform
+    100092: RIGMahiaMiddlefinger1
+    100094: RIGMahiaMiddlefinger1 1
+    100096: RIGMahiaMiddlefinger2
+    100098: RIGMahiaMiddlefinger2 1
+    100100: RIGMahiaMiddlefinger3
+    100102: RIGMahiaMiddlefinger3 1
+    100104: RIGMahiaNeck1
+    100106: RIGMahiaNeck2
+    100108: RIGMahiaPelvis
+    100110: RIGMahiaRArm1
+    100112: RIGMahiaRArm2
+    100114: RIGMahiaRArmCollarbone
+    100116: RIGMahiaRArmPalm
+    100118: RIGMahiaREar1
+    100120: RIGMahiaREar2
+    100122: RIGMahiaREar3
+    100124: RIGMahiaREar4
+    100126: RIGMahiaREar5
+    100128: RIGMahiaRingfinger1
+    100130: RIGMahiaRingfinger1 1
+    100132: RIGMahiaRingfinger2
+    100134: RIGMahiaRingfinger2 1
+    100136: RIGMahiaRingfinger3
+    100138: RIGMahiaRingfinger3 1
+    100140: RIGMahiaRLeg1
+    100142: RIGMahiaRLeg2
+    100144: RIGMahiaRLegAnkle
+    100146: RIGMahiaRLegPlatform
+    100148: RIGMahiaSpineAbs
+    100150: RIGMahiaSpineBelly
+    100152: RIGMahiaSpineChest
+    100154: RIGMahiaThumb1
+    100156: RIGMahiaThumb1 1
+    100158: RIGMahiaThumb2
+    100160: RIGMahiaThumb2 1
+    100162: //RootNode
+    400000: Box01
+    400002: Box02
+    400004: Mahia_body
+    400006: Mahia_Bra
+    400008: mahia_cap
+    400010: Mahia_Cloth
+    400012: mahia_crown
+    400014: mahia_eye_l
+    400016: mahia_eye_r
+    400018: mahia_lance
+    400020: Mahia_LOD_Scan001
+    400022: Object001
+    400024: Object002
+    400026: Object004
+    400028: Plane002
+    400030: RIGMahia
+    400032: RIGMahiaFootFinger
+    400034: RIGMahiaFootFinger 1
+    400036: RIGMahiaHead
+    400038: RIGMahiaHub002
+    400040: RIGMahiaIndex1
+    400042: RIGMahiaIndex1 1
+    400044: RIGMahiaIndex2
+    400046: RIGMahiaIndex2 1
+    400048: RIGMahiaIndex3
+    400050: RIGMahiaIndex3 1
+    400052: RIGMahiaLArm1
+    400054: RIGMahiaLArm2
+    400056: RIGMahiaLArmCollarbone
+    400058: RIGMahiaLArmIKTarget
+    400060: RIGMahiaLArmPalm
+    400062: RIGMahiaLEar1
+    400064: RIGMahiaLEar2
+    400066: RIGMahiaLEar3
+    400068: RIGMahiaLEar4
+    400070: RIGMahiaLEar5
+    400072: RIGMahiaLittlefinger1
+    400074: RIGMahiaLittlefinger1 1
+    400076: RIGMahiaLittlefinger2
+    400078: RIGMahiaLittlefinger2 1
+    400080: RIGMahiaLittlefinger3
+    400082: RIGMahiaLittlefinger3 1
+    400084: RIGMahiaLLeg1
+    400086: RIGMahiaLLeg2
+    400088: RIGMahiaLLegAnkle
+    400090: RIGMahiaLLegPlatform
+    400092: RIGMahiaMiddlefinger1
+    400094: RIGMahiaMiddlefinger1 1
+    400096: RIGMahiaMiddlefinger2
+    400098: RIGMahiaMiddlefinger2 1
+    400100: RIGMahiaMiddlefinger3
+    400102: RIGMahiaMiddlefinger3 1
+    400104: RIGMahiaNeck1
+    400106: RIGMahiaNeck2
+    400108: RIGMahiaPelvis
+    400110: RIGMahiaRArm1
+    400112: RIGMahiaRArm2
+    400114: RIGMahiaRArmCollarbone
+    400116: RIGMahiaRArmPalm
+    400118: RIGMahiaREar1
+    400120: RIGMahiaREar2
+    400122: RIGMahiaREar3
+    400124: RIGMahiaREar4
+    400126: RIGMahiaREar5
+    400128: RIGMahiaRingfinger1
+    400130: RIGMahiaRingfinger1 1
+    400132: RIGMahiaRingfinger2
+    400134: RIGMahiaRingfinger2 1
+    400136: RIGMahiaRingfinger3
+    400138: RIGMahiaRingfinger3 1
+    400140: RIGMahiaRLeg1
+    400142: RIGMahiaRLeg2
+    400144: RIGMahiaRLegAnkle
+    400146: RIGMahiaRLegPlatform
+    400148: RIGMahiaSpineAbs
+    400150: RIGMahiaSpineBelly
+    400152: RIGMahiaSpineChest
+    400154: RIGMahiaThumb1
+    400156: RIGMahiaThumb1 1
+    400158: RIGMahiaThumb2
+    400160: RIGMahiaThumb2 1
+    400162: //RootNode
+    2300000: Box01
+    2300002: Box02
+    2300004: mahia_crown
+    2300006: mahia_eye_l
+    2300008: mahia_eye_r
+    2300010: mahia_lance
+    2300012: Object001
+    2300014: Object002
+    2300016: Object004
+    2300018: Plane002
+    3300000: Box01
+    3300002: Box02
+    3300004: mahia_crown
+    3300006: mahia_eye_l
+    3300008: mahia_eye_r
+    3300010: mahia_lance
+    3300012: Object001
+    3300014: Object002
+    3300016: Object004
+    3300018: Plane002
+    4300000: Mahia_body
+    4300002: Mahia_Cloth
+    4300004: Mahia_Bra
+    4300006: mahia_eye_r
+    4300008: mahia_eye_l
+    4300010: Object002
+    4300012: mahia_crown
+    4300014: Object004
+    4300016: Box01
+    4300018: mahia_lance
+    4300020: Plane002
+    4300022: Object001
+    4300024: Box02
+    4300026: Mahia_LOD_Scan001
+    4300028: mahia_cap
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mahia_body
+    13700002: Mahia_Bra
+    13700004: mahia_cap
+    13700006: Mahia_Cloth
+    13700008: Mahia_LOD_Scan001
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.39999998
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

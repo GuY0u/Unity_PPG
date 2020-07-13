@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b8d823763d31ae4383fc0a40c8616a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FloatingTextPrefab: {fileID: 1874705393918010561, guid: b9518343a5e7a7449a5867f7507913e9,
+      type: 3}
+  - lookCam: {instanceID: 0}
+  - anim: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
